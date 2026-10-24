@@ -1,6 +1,6 @@
 {
   "name": "@ciiixid/owlet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cross-platform CLI to prevent OS sleep while running heavy commands",
   "type": "module",
   "bin": {
