@@ -4,7 +4,7 @@
   "description": "Cross-platform CLI to prevent OS sleep while running heavy commands",
   "type": "module",
   "bin": {
-    "owlet": "/bin/cli.js"
+    "owlet": "bin/cli.js"
   },
   "dependencies": {
     "minimist": "^1.2.8"
