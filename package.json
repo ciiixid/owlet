@@ -1,12 +1,11 @@
 {
-  "name": "owlet",
+  "name": "@ciiixid/owlet",
   "version": "1.0.4",
+  "description": "Cross-platform CLI to prevent OS sleep while running heavy commands",
+  "type": "module",
   "bin": {
-    "owlet": "bin/cli.js"
+    "owlet": "/bin/cli.js"
   },
-  "files": [
-    "bin"
-  ],
   "dependencies": {
     "minimist": "^1.2.8"
   }
