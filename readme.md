@@ -20,13 +20,13 @@ Owlet uses native system utilities under the hood for zero-dependency reliabilit
 You can run it directly without permanent installation using `npx`:
 
 ```bash
-npx owlet --command "npm run build"
+npx @nitefine/owlet --command "npm run build"
 ```
 
 Or install it globally:
 
 ```bash
-npm install -g owlet
+npm install -g @nitefine/owlet
 ```
 
 Then use it anywhere:
